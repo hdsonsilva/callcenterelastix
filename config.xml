@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="io.onsen.helloworld" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>SMS Sender</name>
+    <description>
+        Esse é o Aplicativo para envio de SMS da Softwares HD.<br>Com ele é possivel usar sua conta no sistema de envio da softwares HD para enviar torpedos com praticidade no seu celular.
+    </description>
+    <author email="contato@softwareshd.com.br" href="http://www.softwareshd.com.br">
+        Softwares HD
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
